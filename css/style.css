@@ -1,0 +1,39 @@
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.navbar {
+    background-color:aquamarine;
+}
+.quem.somos {
+    background-color:coral;
+    color: azure;
+}
+.margin{
+    padding-bottom: 70px;
+    padding-top: 20px;
+}
+.parceiros {
+    background-color: cornflowerblue;
+}
+.margin-a {
+    margin-top: 80px;
+}
+.margin-b {
+    margin-top: 50px;
+}
+.nav-link{
+    margin-left: 160px;
+    margin-top: 40px;
+}
+.navbar-brand{
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.row {
+    margin: 50px;
+}
+.bg-footer {
+    background-color:crimson ;
+    color: azure;
+}
